@@ -5,10 +5,10 @@
 
 ### Features:
 
-  ** Users can enter ingredients they have on hand, and the application will search for recipes that can be made with those ingredients.
-  ** Users can filter search results by cuisine type, meal type, or dietary restrictions.
-  ** Users can save favorite recipes to a "favorites" list, which will be stored in a Node.js/Express.js backend database.
-  ** Users can view and manage their saved recipes in the application.
+  * Users can enter ingredients they have on hand, and the application will search for recipes that can be made with those ingredients.
+  * Users can filter search results by cuisine type, meal type, or dietary restrictions.
+  * Users can save favorite recipes to a "favorites" list, which will be stored in a Node.js/Express.js backend database.
+  * Users can view and manage their saved recipes in the application.
 ### Technical Details:
 
 * The frontend will be built with React, utilizing npm packages such as react-router-dom, axios, and material-ui.
